@@ -1,0 +1,15 @@
+Knapsack Problem:
+
+Definition:
+The Knapsack Problem is an optimization problem where
+ items with given weights and values are selected 
+ to maximize the total value without exceeding the given weight capacity.
+
+Time Complexity:
+For the 0/1 Knapsack using Dynamic Programming: O(n × W)
+
+Conclusion:
+The Knapsack problem efficiently selects the most valuable combination
+ of items within a given capacity. The Dynamic Programming method avoids
+repeated calculations and provides an optimal solution. It is widely
+ used in resource allocation and optimization problems.
