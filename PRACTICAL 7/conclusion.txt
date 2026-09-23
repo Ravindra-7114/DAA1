@@ -1,0 +1,5 @@
+The Coin Change program uses Dynamic Programming to efficiently calculate the number of ways to form a
+ given amount using the available coins. It avoids repeated calculations by storing previous results in 
+ a DP table.
+making the solution efficient with a time complexity of O(n × N).
+Space Complexity: O(n × N)
