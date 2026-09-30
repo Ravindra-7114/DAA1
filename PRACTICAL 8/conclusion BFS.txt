@@ -1,0 +1,3 @@
+The BFS program successfully traverses a graph level by level using a queue. It uses a visited set to avoid
+ repeated vertices and efficiently explores all reachable vertices with a time complexity of O(V + E) and 
+ space complexity of O(V).
