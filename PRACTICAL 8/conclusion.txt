@@ -1,4 +1,5 @@
-BFS (Breadth First Search) visits the vertices level by level using a queue (FIFO), while DFS (Depth First Search) explores
+BFS (Breadth First Search) visits the vertices level by level using a queue (FIFO),
+ while DFS (Depth First Search) explores
  as deep as possible using a stack (LIFO). Both algorithms have a time complexity of O(V + E) and space complexity of O(V). 
  BFS is useful for finding the shortest path in an unweighted graph, whereas DFS is useful for deep traversal and exploring
   connected components.

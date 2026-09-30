@@ -20,7 +20,7 @@ while queue:
     for x in graph[node]:
         if x not in visited:
             visited.add(x)
-            queue.append(x) 
+            queue.append(x)
 
 
 
