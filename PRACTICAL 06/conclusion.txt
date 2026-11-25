@@ -1,0 +1,4 @@
+Conclusion: Matrix multiplication is performed using three nested loops. 
+It multiplies the rows of the first matrix with the columns of the second matrix and
+ stores the final result in a new matrix. The time complexity is O(n³) and the space 
+ complexity is O(n²).
