@@ -1,0 +1,4 @@
+Conclusion: The Travelling Salesman Problem is solved by finding the shortest possible route 
+that visits every city exactly once and returns to the starting city. It helps to minimize the 
+total travelling distance or cost. The time complexity of the brute-force approach is O(n!) and
+ the space complexity is O(n).
