@@ -1,0 +1,7 @@
+The Floyd–Warshall Algorithm efficiently finds the shortest paths between all 
+pairs of vertices in a weighted graph. 
+It uses three nested loops to update distances by checking intermediate vertices. 
+Its time complexity is O(v^3), 
+and its space complexity is O(v^2). It can handle negative edge weights, 
+but it does not produce valid shortest paths 
+if the graph contains a negative-weight cycle.

@@ -12,7 +12,6 @@ queue = deque([start])
 visited.add(start)
 
 print("BFS:", end=" ")
-
 while queue:
     node = queue.popleft()
     print(node, end=" ")

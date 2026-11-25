@@ -1,0 +1,5 @@
+Conclusion of Kruskal's Algorithm
+Kruskal's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST)
+ of a connected, weighted, undirected graph. It selects edges in increasing order of their 
+ weights without forming any cycles. It connects all vertices with the minimum total cost. 
+ Its time complexity is O(E log E), making it efficient for finding the Minimum Spanning Tree.
